@@ -1,12 +1,14 @@
 # git-shortcuts tutorial
 
+## Introduction
+
 <b>Platforms: windows, mac and linux</b>
 
 This repo is a little tutorial on how to create a list of useful shortcuts to use on git.
 
 This commands are stored inside the .gitconfig file and it can be done locally (only for the project that you're working on) or global (To all the git projects inside the machine).
 
-Steps:
+### Steps:
 
 1 - Open your terminal
 
@@ -64,3 +66,7 @@ Steps:
   ![image](https://user-images.githubusercontent.com/60946104/194797166-708673f7-bfd5-44d9-b9a2-512af0af0393.png)
   
   - <b>ammend</b>: the "l" alias will take the changes, and gather it in the last commit that you've made. For example: I have commited a console.log and realized that it should be an alert instead. You run this command and it will gather the changes in the last commit, avoiding generate a new unnecessary commit
+
+
+## Conclusion
+Now that you have some good shortcuts, is up to you decide whether expand this list or modify these that are already list.
